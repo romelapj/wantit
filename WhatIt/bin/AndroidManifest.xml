@@ -35,6 +35,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.cinesbus.Prueba"
+            android:label="@string/title_activity_prueba" >
+        </activity>
+        <activity
+            android:name="com.cinesbus.IngresoPerfil"
+            android:label="@string/title_activity_ingreso_perfil" >
+        </activity>
+        <activity
+            android:name="com.cinesbus.Perfil"
+            android:label="@string/title_activity_perfil" >
+        </activity>
+        <activity
+            android:name="com.cinesbus.PerfilProducto"
+            android:label="@string/title_activity_perfil_producto" >
+        </activity>
     </application>
 
 </manifest>
